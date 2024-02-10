@@ -18,7 +18,7 @@ We get the datasets from the [Machine Learning Dataset
 1](https://zenodo.org/record/5801834#.Y3MAC3ZBy8U)
 [Machine Learning Dataset 
 2](https://zenodo.org/record/4628934#.Y3MA6HZBy8U). This is a series of information about poultry disease diagnostics was annotated using Polymerase Chain Reaction (PCR) and the farm-labeled fecal image.The poultry fecal images were taken  between September 2020 and February 2021.
-![Datasets](./picture/dataset.png)
+
 
 
 
